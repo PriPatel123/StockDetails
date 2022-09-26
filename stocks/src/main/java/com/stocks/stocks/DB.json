@@ -1,0 +1,16 @@
+ Stocks: [{
+    "Symbol": "AAPL",
+    "LastPrice": 133,
+    "Tag": "forFriends",
+    "Action":""
+       },{
+    "Symbol": "CSCO",
+    "LastPrice": 50,
+    "Tag": "watching","Action":""
+   },{
+    "Symbol": "T",
+    "LastPrice": 33,
+    "Tag": "watching","Action":""
+   }
+
+   ]

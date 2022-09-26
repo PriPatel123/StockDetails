@@ -1,0 +1,3 @@
+INSERT INTO STOCKS VALUES (1,'AAPL', 1232, 'forFriends');    
+INSERT INTO STOCKS VALUES (2,'CSCO', 7878, 'watching');    
+INSERT INTO STOCKS VALUES (3,'T', '44', 'watchin	g');  
